@@ -1,2 +1,5 @@
 # pareto_analysis
-Store Data with different products
+
+Following is a Data Analysis to find products which produce 80 percent of revenue.
+
+ 
