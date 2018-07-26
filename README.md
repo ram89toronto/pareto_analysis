@@ -6,5 +6,5 @@ Learning outcomes
 - Importing of CSV file to pandas DataFrame
 - Understanding given data
 - Preparing data ready for computation
-- Conducting Pareto Analysis with help of numpy and pandas library
+- Conducting Pareto Analysis with help of numpy and pandas libraries 
 - Displaying through bar graph using matplotlib library
